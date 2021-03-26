@@ -1,0 +1,20 @@
+C:\Users\user\AppData\Local\Temporary Projects\Persik\bin\Debug\Persik.exe
+C:\Users\user\AppData\Local\Temporary Projects\Persik\bin\Debug\Persik.pdb
+C:\Users\user\AppData\Local\Temporary Projects\Persik\obj\x86\Debug\Persik.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\Persik\obj\x86\Debug\Persik.Properties.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\Persik\obj\x86\Debug\Persik.csproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\Persik\obj\x86\Debug\Persik.exe
+C:\Users\user\AppData\Local\Temporary Projects\Persik\obj\x86\Debug\Persik.pdb
+C:\Users\user\AppData\Local\Temporary Projects\Persik\bin\Debug\Persik.exe.config
+C:\Users\user\AppData\Local\Temporary Projects\Persik\obj\x86\Debug\Persik.Pattern.resources
+C:\Users\user\documents\visual studio 2010\Projects\Persik\Persik\bin\Debug\Persik.exe.config
+C:\Users\user\documents\visual studio 2010\Projects\Persik\Persik\obj\x86\Debug\Persik.exe
+C:\Users\user\documents\visual studio 2010\Projects\Persik\Persik\obj\x86\Debug\Persik.pdb
+C:\Users\user\documents\visual studio 2010\Projects\Persik\Persik\bin\Debug\Persik.exe
+C:\Users\user\documents\visual studio 2010\Projects\Persik\Persik\bin\Debug\Persik.pdb
+C:\Users\user\documents\visual studio 2010\Projects\Persik\Persik\obj\x86\Debug\Persik.Form1.resources
+C:\Users\user\documents\visual studio 2010\Projects\Persik\Persik\obj\x86\Debug\Persik.Pattern.resources
+C:\Users\user\documents\visual studio 2010\Projects\Persik\Persik\obj\x86\Debug\Persik.Properties.Resources.resources
+C:\Users\user\documents\visual studio 2010\Projects\Persik\Persik\obj\x86\Debug\Persik.csproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2010\Projects\Persik\Persik\obj\x86\Debug\Persik.MyConsole.resources
+C:\Users\user\documents\visual studio 2010\Projects\Persik\Persik\obj\x86\Debug\Persik.csprojResolveAssemblyReference.cache
